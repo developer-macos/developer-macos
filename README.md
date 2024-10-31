@@ -1,4 +1,4 @@
-# Hi there, I'm Alex! 👋
+# Hi there, I'm Vova! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=developer-macos&color=blue)
 
