@@ -6,20 +6,13 @@
 
 - 🎮 Working on a kid-friendly roleplaying game with an old-fashioned theme.
 - 🌱 I’m currently learning more about web development.
-- 🔥 I’m interested in game development, retro aesthetics, and creative coding.
-
-## 📈 GitHub Stats
-
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?KirillKapteily=developer-macos&show_icons=true&theme=radical)
+- 🔥 I’m interested in game development,  and creative coding.
 
 ## 🌐 Connect with Me
 
 - [Telegram](https://t.me/+wwekXchnO0Q2MjM8)
 - [Guilded](https://www.guilded.gg/i/pLMvdrgE)
 - [Personal Website](linuxappstore.netlify.app)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?KirillKapteily=developer-macos&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?KirillKapteily=developer-macos&layout=compact&theme=radical)
 
 ### 🚀 Tech Stack
 
