@@ -11,7 +11,8 @@
 
 - 🎮 Working on a kid-friendly roleplaying game with an old-fashioned theme.
 - 🌱 I’m currently learning more about web development.
-- 🔥 I’m interested in game development,  and creative coding.
+- 🔥 I’m interested in game development and creative coding.
+- Searching someone to help me with my big project.
 
 ## 🌐 Connect with Me
 
@@ -24,5 +25,17 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+## I'm developing a new gen of Linux App Store
+
+![Screenshot of the Project]
+<img width="1440" alt="Знімок екрана 2024-11-01 о 13 45 49" src="[https://github.com/user-attachments/assets/f02996c4-35d8-4323-b3ca-bd63f787f70b)">
+
+## Features
+- Safe downloading
+- Simple interface
+  ## Remember! The project is currently in pre-alpha
+
+- 📫 How to reach me? Easy! join my group in telegram. ( The link is at the top )
 
 
