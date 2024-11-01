@@ -29,7 +29,7 @@
 ## I'm developing a new gen of Linux App Store
 
 ![Screenshot of the Project]
-<img width="1440" alt="Знімок екрана 2024-11-01 о 13 45 49" src="[https://github.com/user-attachments/assets/f02996c4-35d8-4323-b3ca-bd63f787f70b)">
+![Screenshot 2024-11-01 at 14 56 47](https://github.com/user-attachments/assets/f02996c4-35d8-4323-b3ca-bd63f787f70b)
 
 ## Features
 - Safe downloading
